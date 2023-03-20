@@ -12,3 +12,4 @@ This repo will collect some vc/tts papers included by top meetings/widely used.
 ## 3.Efficient Neural Audio Synthesis(WaveRNN)
 ## 4.MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis
 ## 5.WaveGlow: A Flow-based Generative Network for Speech Synthesis
+## 6.TFGAN: Time and Frequency Domain Based Generative Adversarial Network for High-fidelity Speech Synthesis
