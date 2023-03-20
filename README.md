@@ -9,3 +9,4 @@ This repo will collect some vc/tts papers included by top meetings
 # Vocoder:
 ## 1.HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis(NeurIPS 2020)
 ## 2.WaveNet: A Generative Model for Raw Audio
+## 3.Efficient Neural Audio Synthesis(WaveRNN)
