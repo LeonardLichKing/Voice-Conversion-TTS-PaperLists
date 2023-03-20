@@ -1,5 +1,5 @@
 # Voice-Conversion-TTS-PaperLists
-This repo will collect some vc/tts papers included by top meetings
+This repo will collect some vc/tts papers included by top meetings/widely used.
 # Acoustic Model:
 ## ...
 
