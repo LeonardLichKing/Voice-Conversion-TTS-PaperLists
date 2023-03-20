@@ -7,7 +7,7 @@ This repo will collect some vc/tts papers included by top meetings/widely used.
 ## 1.Wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations
 
 # Vocoder:
-## 1.[HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis](https://arxiv.org/abs/2010.05646)
+## 1.[HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis](https://arxiv.org/abs/2010.05646)`NeurIPS 2020`
 ## 2.WaveNet: A Generative Model for Raw Audio
 ## 3.Efficient Neural Audio Synthesis(WaveRNN)
 ## 4.MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis
