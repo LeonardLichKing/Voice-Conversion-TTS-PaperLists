@@ -11,3 +11,4 @@ This repo will collect some vc/tts papers included by top meetings
 ## 2.WaveNet: A Generative Model for Raw Audio
 ## 3.Efficient Neural Audio Synthesis(WaveRNN)
 ## 4.MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis
+## 5.WaveGlow: A Flow-based Generative Network for Speech Synthesis
