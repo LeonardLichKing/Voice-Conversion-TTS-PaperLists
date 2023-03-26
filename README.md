@@ -5,6 +5,7 @@ This repo will collect some vc/tts papers included by top meetings/widely used.
 
 ## Representation Extractor:
 ### 1.[Wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations](https://arxiv.org/abs/2006.11477)
+### 2.[HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units](https://arxiv.org/abs/2106.07447)
 
 ## Vocoder:
 ### 1.[HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis](https://arxiv.org/abs/2010.05646)`NeurIPS 2020`
