@@ -1,5 +1,8 @@
 # Voice-Conversion-TTS-PaperLists
 This repo will collect some vc/tts papers included by top meetings/widely used.
+## TTS Model
+### 1.[VQTTS: High-Fidelity Text-to-Speech Synthesis with Self-Supervised VQ Acoustic Feature](https://arxiv.org/abs/2204.00768)`Interspeech 2022`
+### 2.[Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech](https://arxiv.org/abs/2106.06103)`ICML 2021`
 ## Acoustic Model:
 ### ...
 
